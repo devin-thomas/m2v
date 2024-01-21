@@ -3,7 +3,7 @@ from tkinter import filedialog, messagebox, ttk
 from moviepy.editor import ImageClip, AudioFileClip
 from PIL import Image
 from send2trash import send2trash
-from os import path, sep
+from os import path
 from sys import exit, stderr
 
 
